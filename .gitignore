@@ -1,0 +1,12 @@
+env
+data/bluebook-for-bulldozers
+
+# Jupyter checkpoints
+*.ipynb_checkpoints
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Model files
+*.pkl
+*.joblib
+

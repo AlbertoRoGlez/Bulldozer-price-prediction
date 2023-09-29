@@ -30,7 +30,7 @@ Kaggle provides a data dictionary detailing all of the features of the dataset. 
 5. Optional, run the project-organized notebook.
 
 ## Conclusions.
-In the end-to-end-bulldozer-price-regression notebook we obtain a 0.24 RMSLE in the validation, in comparissoon to the project-organized notebook, where we obtain a 0.47 RMSLE in the validation.
+In the end-to-end-bulldozer-price-regression notebook we obtain a 0.24 RMSLE in the validation, in comparison to the project-organized notebook, where we obtain a 0.47 RMSLE in the validation.
 
 We have this huge difference because in the first notebook we made the preprocessing of the training and validation data before splitting the dataset, which is the wrong way to do it.
 
